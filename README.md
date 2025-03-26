@@ -39,7 +39,7 @@ This document summarizes all key open and publicly available data sources useful
 | [GCAM Model](https://github.com/JGCRI/gcam-core) | Global energy model, tech cost assumptions | ✅ Yes | GitHub | Open |
 | [NREL ATB](https://atb.nrel.gov/) | Global tech cost benchmarks (US-focused) | ⚠️ Partial | NREL | CC BY 4.0 |
 | [CREO Reports](http://www.efchina.org/Reports-en) | China Renewable Energy Outlook (tech & scenario costs) | ✅ Yes | EF China | Limited (PDF) |
-| [Open Energy Platform](https://openenergy-platform.org/) | Cost datasets for energy modeling | ✅ Yes | OEP website | Open |
+| [Open Energy Platform](https://openenergy-platform.org/) | Cost datasets for energy modeling | ⚠️ Partial | OEP website | Open |
 
 ---
 
