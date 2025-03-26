@@ -47,7 +47,7 @@ This document summarizes all key open and publicly available data sources useful
 
 | Source | Description | China Coverage | Access | License |
 |--------|-------------|----------------|--------|---------|
-| [Zenodo – 2018 Hourly Load (Ruggles et al.)](https://zenodo.org/record/3665573) | National hourly electricity demand (2018) | ✅ Yes | Zenodo | CC BY 4.0 |
+| [Zenodo – 2018 Hourly Load (Wu et al.)]([https://zenodo.org/record/3665573](https://zenodo.org/records/8322210)) | National hourly electricity demand (2018) | ✅ Yes | Zenodo | CC BY 4.0 |
 | [CEC (China Electricity Council)](http://www.cec.org.cn/) | Annual/monthly power production, capacity, demand | ✅ Yes | CEC website | Partial (report PDFs) |
 | [IEA China Reports](https://www.iea.org/reports/china-power-system-transformation) | Power demand projections & policy insights | ✅ Yes | IEA website | Limited (report-based) |
 | [Guangxi Residential Load Dataset](https://doi.org/10.1038/s41597-025-04766-7) | Hourly community load from 10 cities | ✅ Yes | Scientific Data | CC BY-NC-ND (non-commercial) |
