@@ -5,6 +5,31 @@ This document summarizes all key open and publicly available data sources useful
 
 ---
 
+## 📊 Statistical & Energy Balance Data
+
+| Source | Description | China Coverage | Access | License |
+|--------|-------------|----------------|--------|---------|
+| [National Bureau of Statistics](https://data.stats.gov.cn) | Energy production, consumption, balance tables | ✅ Yes | Official database (in Chinese) | Public, needs citation |
+| [China Energy Statistical Yearbooks (CNKI)](https://data.cnki.net/) | Detailed energy data by sector & province | ✅ Yes | CNKI platform (login required) | Paid / Limited |
+| [CEADs – Carbon Accounting Database](https://www.ceads.net/) | Provincial energy balance and emissions | ✅ Yes | Free registration | Open (for research) |
+| [World Bank Energy Data](https://data.worldbank.org) | Electricity use per capita, GDP, macro indicators | ✅ Yes | Open Data Portal | Open |
+| [Global Energy Observatory](http://globalenergyobservatory.org/) | Power plant & grid infrastructure info | ✅ Yes | GEO website | Open |
+
+---
+
+## 💰 Cost Assumptions (CAPEX/OPEX, LCOE)
+
+| Source | Description | China Coverage | Access | License |
+|--------|-------------|----------------|--------|---------|
+| [IRENA Cost Database](https://www.irena.org/costs) | Global CAPEX, LCOE, incl. China-specific data | ✅ Yes | IRENA | CC BY 4.0 |
+| [GCAM Model](https://github.com/JGCRI/gcam-core) | Global energy model, tech cost assumptions | ✅ Yes | GitHub | Open |
+| [NREL ATB](https://atb.nrel.gov/) | Global tech cost benchmarks (US-focused) | ⚠️ Partial | NREL | CC BY 4.0 |
+| [CREO Reports](http://www.efchina.org/Reports-en) | China Renewable Energy Outlook (tech & scenario costs) | ✅ Yes | EF China | Limited (PDF) |
+| [Open Energy Platform](https://openenergy-platform.org/) | Cost datasets for energy modeling | ✅ Yes | OEP website | Open |
+
+---
+
+
 ## 🔋 Renewable Energy Potential
 
 | Source | Description | China Coverage | Access | License |
@@ -29,29 +54,8 @@ This document summarizes all key open and publicly available data sources useful
 
 ---
 
-## 💰 Cost Assumptions (CAPEX/OPEX, LCOE)
 
-| Source | Description | China Coverage | Access | License |
-|--------|-------------|----------------|--------|---------|
-| [IRENA Cost Database](https://www.irena.org/costs) | Global CAPEX, LCOE, incl. China-specific data | ✅ Yes | IRENA | CC BY 4.0 |
-| [GCAM Model](https://github.com/JGCRI/gcam-core) | Global energy model, tech cost assumptions | ✅ Yes | GitHub | Open |
-| [NREL ATB](https://atb.nrel.gov/) | Global tech cost benchmarks (US-focused) | ⚠️ Partial | NREL | CC BY 4.0 |
-| [CREO Reports](http://www.efchina.org/Reports-en) | China Renewable Energy Outlook (tech & scenario costs) | ✅ Yes | EF China | Limited (PDF) |
-| [Open Energy Platform](https://openenergy-platform.org/) | Cost datasets for energy modeling | ✅ Yes | OEP website | Open |
 
----
-
-## 📊 Statistical & Energy Balance Data
-
-| Source | Description | China Coverage | Access | License |
-|--------|-------------|----------------|--------|---------|
-| [National Bureau of Statistics](https://data.stats.gov.cn) | Energy production, consumption, balance tables | ✅ Yes | Official database (in Chinese) | Public, needs citation |
-| [China Energy Statistical Yearbooks (CNKI)](https://data.cnki.net/) | Detailed energy data by sector & province | ✅ Yes | CNKI platform (login required) | Paid / Limited |
-| [CEADs – Carbon Accounting Database](https://www.ceads.net/) | Provincial energy balance and emissions | ✅ Yes | Free registration | Open (for research) |
-| [World Bank Energy Data](https://data.worldbank.org) | Electricity use per capita, GDP, macro indicators | ✅ Yes | Open Data Portal | Open |
-| [Global Energy Observatory](http://globalenergyobservatory.org/) | Power plant & grid infrastructure info | ✅ Yes | GEO website | Open |
-
----
 
 ## 🌐 International Models & Platforms
 
