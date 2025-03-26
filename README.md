@@ -17,6 +17,20 @@ This document summarizes all key open and publicly available data sources useful
 
 ---
 
+
+
+## 🌐 International Models & Platforms
+
+| Source | Description | China Coverage | Access | License |
+|--------|-------------|----------------|--------|---------|
+| [OpenMod Initiative](https://openmod-initiative.org/) | Collaborative platform for open energy modeling | ✅ Yes | Website | Open |
+| [Open Power System Data](https://open-power-system-data.org/) | Data workflows, methodology (Europe-based) | ⚠️ Not China, methods applicable | Website | Open |
+| [Enerdata Yearbook](https://yearbook.enerdata.net/) | Country energy profiles, forecasts | ✅ Yes | Website (partial open) | Mixed / Some paywalled |
+| [IEA Data & Reports](https://www.iea.org) | Reports and projections for China | ✅ Yes | IEA | Partial (PDFs) |
+| [China Energy Portal](https://chinaenergyportal.org) | Translated energy policy, stats (EN/CN) | ✅ Yes | Open portal | Open / Volunteer-based |
+
+---
+
 ## 💰 Cost Assumptions (CAPEX/OPEX, LCOE)
 
 | Source | Description | China Coverage | Access | License |
@@ -55,19 +69,6 @@ This document summarizes all key open and publicly available data sources useful
 ---
 
 
-
-
-## 🌐 International Models & Platforms
-
-| Source | Description | China Coverage | Access | License |
-|--------|-------------|----------------|--------|---------|
-| [OpenMod Initiative](https://openmod-initiative.org/) | Collaborative platform for open energy modeling | ✅ Yes | Website | Open |
-| [Open Power System Data](https://open-power-system-data.org/) | Data workflows, methodology (Europe-based) | ⚠️ Not China, methods applicable | Website | Open |
-| [Enerdata Yearbook](https://yearbook.enerdata.net/) | Country energy profiles, forecasts | ✅ Yes | Website (partial open) | Mixed / Some paywalled |
-| [IEA Data & Reports](https://www.iea.org) | Reports and projections for China | ✅ Yes | IEA | Partial (PDFs) |
-| [China Energy Portal](https://chinaenergyportal.org) | Translated energy policy, stats (EN/CN) | ✅ Yes | Open portal | Open / Volunteer-based |
-
----
 
 ## ✅ Notes
 
