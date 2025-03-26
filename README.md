@@ -23,7 +23,7 @@ This document summarizes all key open and publicly available data sources useful
 
 | Source | Description | China Coverage | Access | License |
 |--------|-------------|----------------|--------|---------|
-| [OpenMod Initiative](https://openmod-initiative.org/) | Collaborative platform for open energy modeling | ✅ Yes | Website | Open |
+| [OpenMod Initiative](https://openmod-initiative.org/) | Collaborative platform for open energy modeling | ⚠️ Limited | Website | Open |
 | [Open Power System Data](https://open-power-system-data.org/) | Data workflows, methodology (Europe-based) | ⚠️ Not China, methods applicable | Website | Open |
 | [Enerdata Yearbook](https://yearbook.enerdata.net/) | Country energy profiles, forecasts | ✅ Yes | Website (partial open) | Mixed / Some paywalled |
 | [IEA Data & Reports](https://www.iea.org) | Reports and projections for China | ✅ Yes | IEA | Partial (PDFs) |
