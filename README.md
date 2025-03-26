@@ -10,7 +10,7 @@ This document summarizes all key open and publicly available data sources useful
 | Source | Description | China Coverage | Access | License |
 |--------|-------------|----------------|--------|---------|
 | [National Bureau of Statistics](https://data.stats.gov.cn) | Energy production, consumption, balance tables | ✅ Yes | Official database (in Chinese) | Public, needs citation |
-| [China Energy Statistical Yearbooks (CNKI)](https://data.cnki.net/) | Detailed energy data by sector & province | ✅ Yes | CNKI platform (login required) | Paid / Limited |
+| [China Energy Statistical Yearbooks (CNKI)](https://data.oversea.cnki.net/) | Detailed energy data by sector & province | ✅ Yes | CNKI platform (login required) | Paid / Limited |
 | [CEADs – Carbon Accounting Database](https://www.ceads.net/) | Provincial energy balance and emissions | ✅ Yes | Free registration | Open (for research) |
 | [World Bank Energy Data](https://data.worldbank.org) | Electricity use per capita, GDP, macro indicators | ✅ Yes | Open Data Portal | Open |
 | [Global Energy Observatory](http://globalenergyobservatory.org/) | Power plant & grid infrastructure info | ✅ Yes | GEO website | Open |
