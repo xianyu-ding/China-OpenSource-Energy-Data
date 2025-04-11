@@ -15,14 +15,6 @@ This document summarizes all key open and publicly available data sources useful
 | [World Bank Energy Data](https://data.worldbank.org) | Electricity use per capita, GDP, macro indicators | ✅ Yes | Open Data Portal | Open |
 | [Global Energy Observatory](http://globalenergyobservatory.org/) | Power plant & grid infrastructure info | ✅ Yes | GEO website | Open |
 
----
-
-## 📊 General Data
-
-| Source | Description | China Coverage | Access | License |
-|--------|-------------|----------------|--------|---------|
-| [CEADs](https://www.ceads.net.cn/) | CO2 Emission/Energy Consumption | ✅ Yes | Official database (in Chinese) | Public |
-
 
 ---
 
