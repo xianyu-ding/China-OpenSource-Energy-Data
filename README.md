@@ -21,8 +21,10 @@ This document summarizes all key open and publicly available data sources useful
 
 | Source | Description | China Coverage | Access | License |
 |--------|-------------|----------------|--------|---------|
-| [CEADs](https://www.ceads.net.cn/)) | CO2 Emission/Energy Consumption | ✅ Yes | Official database (in Chinese) | Public |
+| [CEADs](https://www.ceads.net.cn/) | CO2 Emission/Energy Consumption | ✅ Yes | Official database (in Chinese) | Public |
 
+
+---
 
 ## 🌐 International Models & Platforms
 
